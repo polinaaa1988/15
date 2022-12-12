@@ -1,0 +1,20 @@
+.btn {
+    background-color: aquamarine;
+    border-color: azure;
+}
+.btn:hover {
+    background-color: antiquewhite;
+}
+.btn:active {
+    background-color: #bdd3be;
+    box-shadow: 0 3px rgb(158, 160, 160);
+    transform: translateY(2px);
+  }
+  .bi {
+    width: 50px;
+    height: 50px;
+  }
+  .icon {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
